@@ -1,5 +1,13 @@
 # Cryptography
 
+[NetteLeut(h)e - GC Tools](https://gc.de/) 
+
+[xlate - TRANSLATOR, BINARY](https://www.paulschou.com/tools/xlate/) binary encoder, binary decoder, binary translator, binary tools, binary converter, hexadecimal encoder/decoder, base 64, MD5, Message-Digest algorithm, CRC, Cyclic Redundancy Check, SHA, Secure Hash Algorithm, RIPEMD, RACE Integrity Primitives Evaluation Message Digest
+
+[MultiSolver](https://www.multisolver.de/) by dennistreysa - [multisolver alternativ](https://geocaching.dennistreysa.de/multisolver/)
+
+FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.html) - [Base (X) Encoder - Decoder ](http://fbcs.bplaced.net/basex_encoder_decoder.html)
+
 [CrypTool](https://www.cryptool.org/de/cto/)
 
 [kryptografie.de](https://kryptografie.de/kryptografie/index.htm)
@@ -10,5 +18,8 @@
 
 [cryptii](https://cryptii.com/) cryptography, coding & data - [https://ciphereditor.com/](https://ciphereditor.com/)
 
-
 [guballa](https://www.guballa.de/) Vigenere, Substitution Solver
+
+[Boxentriq](https://www.boxentriq.com/) Free tools and resources helping you solve CTFs, ciphers, logic puzzles and room escape games.
+
+[d code](https://www.dcode.fr/) 
