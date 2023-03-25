@@ -6,7 +6,7 @@
 
 [Advertising blocker on www.geocaching.com](https://github.com/2Abendsegler/GC_ad_blocker)
 
-[Saarfuchs Mysteryhilfen](https://www.saarfuchs.com/mysteryhilfen) - [Mystery-Wizard](https://www.saarfuchs.com/wp-content/uploads/files/mystery-wizard.user.js)
+[Saarfuchs Mysteryhilfen](https://www.saarfuchs.com/mysteryhilfen) - [Mystery-Wizard](https://www.saarfuchs.com/2016/01/mystery-wizard-versteckte-informationen-im-listing-anzeigen.html) - [Userscript](https://www.saarfuchs.com/wp-content/uploads/files/mystery-wizard.user.js)
 
 [Project-GC](https://project-gc.com/Home/UserScript)
 
