@@ -15,3 +15,7 @@ https://jimpl.com/
 [Duplichecker](https://www.duplichecker.com/reverse-image-search.php)
 
 [Reverse Image Search](https://www.labnol.org/reverse/)
+
+# QR Code
+
+[ZXing Decoder Online](https://zxing.org/w/decode.jspx)
