@@ -10,7 +10,7 @@ https://jimpl.com/
 
 [tineye.com](https://tineye.com/) - Reverse Image Search
 
-[lens.google.com](https://lens.google.com/uploadbyurl?url=)
+[lens.google.com](https://lens.google.com/) - `https://lens.google.com/uploadbyurl?url=<URL>`
 
 [Duplichecker](https://www.duplichecker.com/reverse-image-search.php)
 
