@@ -10,7 +10,9 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [CrypTool](https://www.cryptool.org/de/cto/)
 
-[kryptografie.de](https://kryptografie.de/kryptografie/index.htm)
+[kryptografie.de](https://kryptografie.de) - German
+- [Grafische Beispiele der Schriften](https://kryptografie.de/kryptografie/chiffre/schriftbeispiele.htm)
+- [Gesamtindex aller Chiffre und Codes](https://kryptografie.de/kryptografie/chiffre/index-gesamt.htm)
 
 [quipqiup](https://www.quipqiup.com/) is a fast and automated cryptogram solver by Edwin Olson. It can solve simple substitution ciphers often found in newspapers, including puzzles like cryptoquips.
 
@@ -27,3 +29,4 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [Unit Converters and Text tools](http://www.unit-conversion.info/)
 
 [Convertworld](https://www.convertworld.com/) is one of the most used unit converion services
+
