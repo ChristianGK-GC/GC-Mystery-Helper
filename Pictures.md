@@ -9,3 +9,9 @@ https://jimpl.com/
 # Reverse
 
 [tineye.com](https://tineye.com/) - Reverse Image Search
+
+[lens.google.com](https://lens.google.com/uploadbyurl?url=)
+
+[Duplichecker](https://www.duplichecker.com/reverse-image-search.php)
+
+[Reverse Image Search](https://www.labnol.org/reverse/)
