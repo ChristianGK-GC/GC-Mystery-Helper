@@ -19,3 +19,7 @@ https://jimpl.com/
 # QR Code
 
 [ZXing Decoder Online](https://zxing.org/w/decode.jspx)
+
+# JAB Code
+
+https://jabcode.org/scan
