@@ -138,7 +138,6 @@ CanvasRenderingContext2D.prototype.putImageData = function (imageData, dx, dy) {
     this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 38);
     this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 63);
     this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 88);
-
     window.jC++;
 }
 const target = document.querySelector('#restart');
