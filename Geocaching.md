@@ -116,10 +116,37 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
 [Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
 - [Jigidi Helper (Experimental)](https://gist.github.com/Dan-Q/e9bfe5c2ca4b13fae4994c5e84685761)
+`
+window.jColors = ['red', 'seagreen', 'gold', 'mediumvioletred', 'lime', 'blue', 'dodgerblue'];
+window.lColors = ['white', 'black', 'purple', 'darkgray', '#009'];
+window.lWidths = [3, 8, 13];
+window.jCols = parseInt(document.getElementById('info-creator').innerText.match(/(\d+)×/)[1]);
+window.jC = 0;
+CanvasRenderingContext2D.prototype.putImageData = function (imageData, dx, dy) {
+    const col = window.jC % window.jCols;
+    const row = Math.floor(window.jC / window.jCols);
+    this.fillStyle = window.jColors[col % window.jColors.length];
+    this.fillRect(-1000, -1000, 2000, 2000);
+    if (0 == (row % 2)) { this.fillStyle = '#ffffff33'; this.fillRect(-1000, -1000, 2000, 2000); }
+    this.fillStyle = window.lColors[row % window.lColors.length];
+    this.font = 'bold 16px sans-serif';
+    this.fillStyle = 'black';
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 25);
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 50);
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 75);
+    this.fillStyle = 'white';
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 38);
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 63);
+    this.fillText(`${col + 1},${row + 1}   `.repeat(10), 0, 88);
+
+    window.jC++;
+}
+const target = document.querySelector('#restart');
+target.click();
 
 `
 
-`
+- [Jigidi "Magic Stripes" Userscript Helper](https://gist.github.com/Dan-Q/b5e4dbb45851b07042b6a57ebe1005a7)
 
 
 ## QR Code
