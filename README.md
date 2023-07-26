@@ -1,5 +1,5 @@
 # GC-Mystery-Helper
-Meine Sammlung an Hilfsmitteln zum Lösen von Geocaches.
 
-My collection of tools for solving geocaches.
+Meine [Sammlung](Geocaching.md) an Hilfsmitteln zum Lösen von Geocaches.
 
+My [collection](Geocaching.md) of tools for solving geocaches.
