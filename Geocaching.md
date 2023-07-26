@@ -1,27 +1,22 @@
 # Geocaching Link Collection
 
-<!-- TOC -->
-
-- [Geocaching Link Collection](#geocaching-link-collection)
-  - [Special Geocaching Websites](#special-geocaching-websites)
-    - [Adventure Labs](#adventure-labs)
-  - [Anagramm](#anagramm)
-  - [Cooordinates](#cooordinates)
-  - [Cryptography](#cryptography)
-  - [EXIF data viewer](#exif-data-viewer)
-  - [JAB Code](#jab-code)
-  - [Map Tools](#map-tools)
-  - [Magic eye - Stereogramm](#magic-eye---stereogramm)
-  - [Math](#math)
-  - [Puzzle - Jigidi Puzzles](#puzzle---jigidi-puzzles)
-  - [QR Code](#qr-code)
-  - [Reverse](#reverse)
-  - [Sudoku](#sudoku)
-  - [Text Tools](#text-tools)
-  - [Wherigo](#wherigo)
-    - [Reverse wherigo](#reverse-wherigo)
-
-<!-- /TOC -->
+- [Special Geocaching Websites](#special-geocaching-websites)
+  - [Adventure Labs](#adventure-labs)
+- [Anagramm](#anagramm)
+- [Cooordinates](#cooordinates)
+- [Cryptography](#cryptography)
+- [EXIF data viewer](#exif-data-viewer)
+- [JAB Code](#jab-code)
+- [Map Tools](#map-tools)
+- [Magic eye - Stereogramm](#magic-eye---stereogramm)
+- [Math](#math)
+- [Puzzle - Jigidi Puzzles](#puzzle---jigidi-puzzles)
+- [QR Code](#qr-code)
+- [Reverse](#reverse)
+- [Sudoku](#sudoku)
+- [Text Tools](#text-tools)
+- [Wherigo](#wherigo)
+  - [Reverse wherigo](#reverse-wherigo)
 
 ## Special Geocaching Websites
 
