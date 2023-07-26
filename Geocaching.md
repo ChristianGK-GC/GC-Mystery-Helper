@@ -92,6 +92,12 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [heywhatsthat](https://www.heywhatsthat.com/) Panorama based on location
 
+# Magic eye - Stereogramm
+
+[magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
+
+[magic-eye-bilder-mit-photoshop-loesen](https://www.bergziege-owl.de/magic-eye-bilder-mit-photoshop-loesen/)
+
 ## Math
 
 [Quersumme](https://rechneronline.de/quersumme/)
@@ -99,6 +105,17 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [Calculate Digit Sum](https://rechneronline.de/digit-sum/)
 
 [Primfaktorzerlegung](https://rechneronline.de/primfaktoren/)
+
+## Puzzle - Jigidi Puzzles
+
+[Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
+[Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
+- [Jigidi Helper (Experimental)](https://gist.github.com/Dan-Q/e9bfe5c2ca4b13fae4994c5e84685761)
+
+`
+
+`
+
 
 ## QR Code
 
@@ -120,6 +137,16 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [Reverse Image Search](https://www.labnol.org/reverse/)
 
+## Sudoku
+
+https://www.surfpoeten.de/apps/sudoku/solver/
+
+https://www.sudoku-solutions.com/
+
+https://123sudoku.nl/sudoku-oplosser/
+
+https://www.samurai-sudoku.com/
+
 ## Text Tools
 
 [Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
@@ -129,3 +156,14 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [verkehrt-herum-schreiben.de](http://verkehrt-herum-schreiben.de/)
 
 [verkehrt-herum-schreiben](https://wortwuchs.net/verkehrt-herum-schreiben/)
+
+## Wherigo
+
+[Online emulator](https://www.webwigo.net/)
+
+[Decomiler](https://wigcrumbler.team-hildesheim.de/en_US/)
+
+### Reverse wherigo
+[gc.de](https://gc.de/gc/reversewherigo/)
+
+[cachesleuth](https://www.cachesleuth.com/reversewherigo.html)
