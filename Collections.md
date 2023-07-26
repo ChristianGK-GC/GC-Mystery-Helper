@@ -7,4 +7,4 @@ Saarfuchs [Mysteryhilfen: Meine große Linkliste](https://www.saarfuchs.com/myst
 
 - [Nina's Schmierblo(g)ck](https://blog.gcwizard.net/manual/losen-von-mysteries/ninas-schmierblogck/) @ GC Wizard
 
-[My Codebook Version](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
+[geoleaks.com - My Codebook](https://geoleaks.com/MIJN_CODEBOEK_DEEL_3.pdf)
