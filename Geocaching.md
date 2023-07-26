@@ -116,7 +116,7 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
 [Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
 - [Jigidi Helper (Experimental)](https://gist.github.com/Dan-Q/e9bfe5c2ca4b13fae4994c5e84685761)
-`
+```js
 window.jColors = ['red', 'seagreen', 'gold', 'mediumvioletred', 'lime', 'blue', 'dodgerblue'];
 window.lColors = ['white', 'black', 'purple', 'darkgray', '#009'];
 window.lWidths = [3, 8, 13];
@@ -144,7 +144,7 @@ CanvasRenderingContext2D.prototype.putImageData = function (imageData, dx, dy) {
 const target = document.querySelector('#restart');
 target.click();
 
-`
+```
 
 - [Jigidi "Magic Stripes" Userscript Helper](https://gist.github.com/Dan-Q/b5e4dbb45851b07042b6a57ebe1005a7)
 
