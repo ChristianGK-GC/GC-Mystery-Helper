@@ -1,5 +1,28 @@
 # Geocaching Link Collection
 
+<!-- TOC -->
+
+- [Geocaching Link Collection](#geocaching-link-collection)
+  - [Special Geocaching Websites](#special-geocaching-websites)
+    - [Adventure Labs](#adventure-labs)
+  - [Anagramm](#anagramm)
+  - [Cooordinates](#cooordinates)
+  - [Cryptography](#cryptography)
+  - [EXIF data viewer](#exif-data-viewer)
+  - [JAB Code](#jab-code)
+  - [Map Tools](#map-tools)
+  - [Magic eye - Stereogramm](#magic-eye---stereogramm)
+  - [Math](#math)
+  - [Puzzle - Jigidi Puzzles](#puzzle---jigidi-puzzles)
+  - [QR Code](#qr-code)
+  - [Reverse](#reverse)
+  - [Sudoku](#sudoku)
+  - [Text Tools](#text-tools)
+  - [Wherigo](#wherigo)
+    - [Reverse wherigo](#reverse-wherigo)
+
+<!-- /TOC -->
+
 ## Special Geocaching Websites
 
 [CacheSleuth](https://www.cachesleuth.com/) - Multi Decoder, Map Tools, Code Tables, Code Tools, Cipher Tools, Number Tools, Misc Tools
@@ -13,11 +36,12 @@
 [NetteLeut(h)e - GC Tools](https://gc.de/)
 
 ### Adventure Labs
+
 [lab2gpx](https://gcutils.de/lab2gpx/)
 
 [lab2gpx@github](https://github.com/mirsch/lab2gpx)
 
-# Anagramm
+## Anagramm
 
 [Anagramm-Generator](https://www.sibiller.de/anagramme/) by Ulrich Sibillers
 
@@ -97,7 +121,7 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [heywhatsthat](https://www.heywhatsthat.com/) Panorama based on location
 
-# Magic eye - Stereogramm
+## Magic eye - Stereogramm
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
 
@@ -115,7 +139,9 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
 [Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
+
 - [Jigidi Helper (Experimental)](https://gist.github.com/Dan-Q/e9bfe5c2ca4b13fae4994c5e84685761)
+
 ```js
 window.jColors = ['red', 'seagreen', 'gold', 'mediumvioletred', 'lime', 'blue', 'dodgerblue'];
 window.lColors = ['white', 'black', 'purple', 'darkgray', '#009'];
@@ -147,7 +173,6 @@ target.click();
 
 - [Jigidi "Magic Stripes" Userscript Helper](https://gist.github.com/Dan-Q/b5e4dbb45851b07042b6a57ebe1005a7)
 
-
 ## QR Code
 
 [ZXing Decoder Online](https://zxing.org/w/decode.jspx)
@@ -170,13 +195,13 @@ target.click();
 
 ## Sudoku
 
-https://www.surfpoeten.de/apps/sudoku/solver/
+<https://www.surfpoeten.de/apps/sudoku/solver/>
 
-https://www.sudoku-solutions.com/
+<https://www.sudoku-solutions.com/>
 
-https://123sudoku.nl/sudoku-oplosser/
+<https://123sudoku.nl/sudoku-oplosser/>
 
-https://www.samurai-sudoku.com/
+<https://www.samurai-sudoku.com/>
 
 ## Text Tools
 
@@ -184,9 +209,9 @@ https://www.samurai-sudoku.com/
 
 [Alvaro Thomaz](https://www.alvarothomaz.com/de/verkehrt-herum-schreiben/)
 
-[verkehrt-herum-schreiben.de](http://verkehrt-herum-schreiben.de/)
+<http://verkehrt-herum-schreiben.de/>
 
-[verkehrt-herum-schreiben](https://wortwuchs.net/verkehrt-herum-schreiben/)
+<https://wortwuchs.net/verkehrt-herum-schreiben/>
 
 ## Wherigo
 
@@ -195,6 +220,7 @@ https://www.samurai-sudoku.com/
 [Decomiler](https://wigcrumbler.team-hildesheim.de/en_US/)
 
 ### Reverse wherigo
-[gc.de](https://gc.de/gc/reversewherigo/)
 
-[cachesleuth](https://www.cachesleuth.com/reversewherigo.html)
+<https://gc.de/gc/reversewherigo/>
+
+<https://www.cachesleuth.com/reversewherigo.html>
