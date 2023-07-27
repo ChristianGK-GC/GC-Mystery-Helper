@@ -13,4 +13,4 @@
 | [10m GFK Mast "EXTRA" - heavy duty](https://www.dx-wire.de/gfk-masten/gfk-masten/10m-gfk-mast-extra-heavy-duty.html) | 1.3m | 10m | 3.2kg | ?
 | [13,7m GFK Mast "EXTRA" - heavy duty](https://www.dx-wire.de/gfk-masten/gfk-masten/137m-gfk-mast-extra-heavy-duty.html) | 1.3m | 13.7m | 3.4kg | ?
 
-* Ggf muss man Element entfernen.
+*Ggf muss man Element entfernen.
