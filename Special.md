@@ -6,7 +6,9 @@ The online google docs spreadsheet <https://bit.ly/geosolve>
 
 [GC Jigidi](https://solvedjigidi.com/) search - for use with the spreadsheet
 
+## GPX-files...
 <https://www.geocoord.nl/gpx/>
+<https://www.mediafire.com/folder/wyprjcy37yt39/Downloads>
 
 ## Facebook
 
