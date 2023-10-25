@@ -56,6 +56,10 @@
 
 ## Cryptography
 
+[Code Beautify](https://codebeautify.org) Image to Base64, Base64 to Image, HEX to Pantone, Source Code Viewer, Binary to Text, JSON Viewer, JSON Validator, Base64 Decode, Hex to Decimal, XML Viewer, XML to JSON, Encryption-Decryption, Excel to HTML, Decimal to Hex, Binary to Decimal, ASCII to Text, REM to PX Converter
+
+[CyberChef](https://gchq.github.io/CyberChef/) and code at [github](https://github.com/gchq/CyberChef)
+
 [xlate - TRANSLATOR, BINARY](https://www.paulschou.com/tools/xlate/) binary encoder, binary decoder, binary translator, binary tools, binary converter, hexadecimal encoder/decoder, base 64, MD5, Message-Digest algorithm, CRC, Cyclic Redundancy Check, SHA, Secure Hash Algorithm, RIPEMD, RACE Integrity Primitives Evaluation Message Digest
 
 [MultiSolver](https://www.multisolver.de/) by dennistreysa - [multisolver alternativ](https://geocaching.dennistreysa.de/multisolver/)
@@ -71,8 +75,6 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 - [Gesamtindex aller Chiffre und Codes](https://kryptografie.de/kryptografie/chiffre/index-gesamt.htm)
 
 [quipqiup](https://www.quipqiup.com/) is a fast and automated cryptogram solver by Edwin Olson. It can solve simple substitution ciphers often found in newspapers, including puzzles like cryptoquips.
-
-[CyberChef](https://gchq.github.io/CyberChef/) and code at [github](https://github.com/gchq/CyberChef)
 
 [cryptii](https://cryptii.com/) cryptography, coding & data - [https://ciphereditor.com/](https://ciphereditor.com/)
 
