@@ -14,7 +14,7 @@
 - [QR Code](#qr-code)
 - [Reverse](#reverse)
 - [Sudoku](#sudoku)
-- [LogikLöser - Logiksolver](#logikl%C3%B6ser--logik-solver)
+- [LogikLöser - Logical Solver](#logik-löser--logical-solver)
 - [Text Tools](#text-tools)
 - [Wherigo](#wherigo)
   - [Reverse wherigo](#reverse-wherigo)
