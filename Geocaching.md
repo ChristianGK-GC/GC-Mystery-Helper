@@ -201,7 +201,7 @@ target.click();
 
 <https://www.samurai-sudoku.com/>
 
-## LogikLöser / Logik solver
+## Logik Löser / Logical Solver
 
 <https://www.jsingler.de/apps/index.php>
 
