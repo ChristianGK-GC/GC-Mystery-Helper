@@ -200,6 +200,10 @@ target.click();
 
 <https://www.samurai-sudoku.com/>
 
+## LogikLöser / Logik solver
+
+<https://www.jsingler.de/apps/index.php>
+
 ## Text Tools
 
 [Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
