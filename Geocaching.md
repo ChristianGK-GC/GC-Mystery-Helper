@@ -215,7 +215,7 @@ target.click();
 
 <https://wortwuchs.net/verkehrt-herum-schreiben/>
 
-[buchstaben.com]([](https://www.buchstaben.com)) Wörtersuche, Scrabble, Wortgenerator, Buchstabensalat, Anagramm-Generator, Wörter zählen
+[buchstaben.com](https://www.buchstaben.com) Wörtersuche, Scrabble, Wortgenerator, Buchstabensalat, Anagramm-Generator, Wörter zählen
 
 ## Wherigo
 
