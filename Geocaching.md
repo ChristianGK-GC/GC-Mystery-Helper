@@ -119,6 +119,12 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [heywhatsthat](https://www.heywhatsthat.com/) Panorama based on location
 
+[brouter.de/](https://brouter.de/) Routen online planen mit OSM Karten
+
+[bikerouter.de/](https://bikerouter.de/) (Bike)routen online planen und basiert auf BRouter-Web
+
+[onthegomap.com/](https://onthegomap.com/) Routen online planen mit google Karten
+
 ## Magic eye - Stereogramm
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
