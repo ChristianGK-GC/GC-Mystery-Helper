@@ -14,6 +14,7 @@
 - [QR Code](#qr-code)
 - [Reverse](#reverse)
 - [Sudoku](#sudoku)
+- [Futoshiki](#futoshiki)
 - [LogikLöser - Logical Solver](#logik-löser--logical-solver)
 - [Text Tools](#text-tools)
 - [Wherigo](#wherigo)
@@ -206,6 +207,10 @@ target.click();
 <https://123sudoku.nl/sudoku-oplosser/>
 
 <https://www.samurai-sudoku.com/>
+
+## Futoshiki
+
+<https://kafsemo.org/toys/futoshiki.html>
 
 ## Logik Löser / Logical Solver
 
