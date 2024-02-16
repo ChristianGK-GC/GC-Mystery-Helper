@@ -1,4 +1,4 @@
-
+# Geeignete Angeln für Geocacher
 
 | Name | Länge min | Länge max | Gewicht | entfernen*
 |------|-----------|-----------|---------|----
@@ -12,5 +12,7 @@
 | [11,5m GFK Mast "MIDI"](https://www.dx-wire.de/gfk-masten/gfk-masten/115m-gfk-mast-midi.html) | 0.85m | 11.5m | 2.2kg | ja
 | [10m GFK Mast "EXTRA" - heavy duty](https://www.dx-wire.de/gfk-masten/gfk-masten/10m-gfk-mast-extra-heavy-duty.html) | 1.3m | 10m | 3.2kg | ?
 | [13,7m GFK Mast "EXTRA" - heavy duty](https://www.dx-wire.de/gfk-masten/gfk-masten/137m-gfk-mast-extra-heavy-duty.html) | 1.3m | 13.7m | 3.4kg | ?
+| [Teleskopstange (Glasfaser, GFK)](https://www.r-g.de/art/670110) | 1.36m | 9.8m | 1.34kg | ?
+| [Teleskopstange (Glasfaser, GFK)](https://www.r-g.de/art/670110W) | 1.35m | 12.5m | 2.29kg | ?
 
 *Ggf muss man Element entfernen.
