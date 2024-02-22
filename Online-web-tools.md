@@ -5,6 +5,11 @@
 [wtfismyip.com](https://wtfismyip.com/)
 [checkip.amazonaws.com](http://checkip.amazonaws.com/) and [https://checkip.amazonaws.com](https://checkip.amazonaws.com/)
 [icanhazip.com/](https://icanhazip.com/)
+[api.myip.com](https://api.myip.com/) JSON
+[ifconfig.me](https://ifconfig.me/)
+[api.ipify.org](https://api.ipify.org/) all [https://www.ipify.org/](https://www.ipify.org/)
+[ipinfo.io/ip](https://ipinfo.io/ip)
+[ipecho.net/plain](http://ipecho.net/plain)
 
 ## IP reverse informartion
 [iplocation.net](https://www.iplocation.net/ip-lookup)
