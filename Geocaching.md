@@ -2,6 +2,7 @@
 
 - [Special Geocaching Websites](#special-geocaching-websites)
   - [Adventure Labs](#adventure-labs)
+- [AI](#ai)
 - [Anagramm](#anagramm)
 - [Cooordinates](#cooordinates)
 - [Cryptography](#cryptography)
@@ -19,7 +20,6 @@
 - [Text Tools](#text-tools)
 - [Wherigo](#wherigo)
   - [Reverse wherigo](#reverse-wherigo)
-
 ## Special Geocaching Websites
 
 [CacheSleuth](https://www.cachesleuth.com/) - Multi Decoder, Map Tools, Code Tables, Code Tools, Cipher Tools, Number Tools, Misc Tools
@@ -37,6 +37,12 @@
 [lab2gpx](https://gcutils.de/lab2gpx/)
 
 [lab2gpx@github](https://github.com/mirsch/lab2gpx)
+
+## AI
+
+[ChatGPT](https://chatgpt.com/) - [Login](https://chatgpt.com/auth/login)
+
+[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 
 ## Anagramm
 
