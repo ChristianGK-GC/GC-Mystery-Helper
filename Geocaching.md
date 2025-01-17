@@ -132,6 +132,11 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [onthegomap.com/](https://onthegomap.com/) Routen online planen mit google Karten
 
+[routing.openstreetmap.de](https://routing.openstreetmap.de/) Sehr gut zum Touren planen und Caches verstecken.
+
+[BayernAtlas](https://atlas.bayern.de/) und [RadlLand Bayern](https://radlland-bayern.de/radkarte/) Gut zum Touren planen und Caches verstecken.
+
+
 ## Magic eye - Stereogramm
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
