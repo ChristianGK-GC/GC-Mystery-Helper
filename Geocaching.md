@@ -167,7 +167,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vQ358lFBRDaOUD1GOOvhOR9Wp4ECnUIN
 
 https://www.mediafire.com/folder/wyprjcy37yt39/Downloads
 
-https://www.geocoord.nl/gpx/
+[www.geocoord.nl/gpx/](https://www.geocoord.nl/gpx/) - https://www.facebook.com/groups/2978857879030956/
 
 ### Puzzle - Jigidi Puzzles Skripte
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
