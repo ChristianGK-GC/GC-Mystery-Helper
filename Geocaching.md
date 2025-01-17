@@ -159,6 +159,17 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 ## Puzzle - Jigidi Puzzles
 
+[solvedjigidi.com](https://solvedjigidi.com/)
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQ358lFBRDaOUD1GOOvhOR9Wp4ECnUINbgT5M_vqiRTGoM3k3OKtY2shq1Ajqsmf7T8XqIE7Owm0-z4/pubhtml#
+
+### GPX
+
+https://www.mediafire.com/folder/wyprjcy37yt39/Downloads
+
+https://www.geocoord.nl/gpx/
+
+### Puzzle - Jigidi Puzzles Skripte
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
 [Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
 
