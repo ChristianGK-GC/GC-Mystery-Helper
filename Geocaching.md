@@ -1,5 +1,7 @@
 # Geocaching Link Collection
 
+[Geocaching Status](https://secure-stats.pingdom.com/9clg54ngi5t4)
+
 - [Special Geocaching Websites](#special-geocaching-websites)
   - [Adventure Labs](#adventure-labs)
 - [AI](#ai)
@@ -152,6 +154,8 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 [Calculate Digit Sum](https://rechneronline.de/digit-sum/)
 
 [Primfaktorzerlegung](https://rechneronline.de/primfaktoren/)
+
+[OEIS](https://oeis.org/) Enzyklopädie der Zahlenfolgen - Encyclopedia of Integer Sequences 
 
 ## Puzzle - Jigidi Puzzles
 
