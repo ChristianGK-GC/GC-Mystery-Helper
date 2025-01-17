@@ -243,7 +243,7 @@ target.click();
 
 [Online emulator](https://www.webwigo.net/)
 
-[Decomiler](https://wigcrumbler.team-hildesheim.de/en_US/)
+[WiG-Crumbler](https://wigcrumbler.team-hildesheim.de/en_US/) Decompiler
 
 ### Reverse wherigo
 
