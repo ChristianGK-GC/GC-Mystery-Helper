@@ -20,6 +20,7 @@
 - [Text Tools](#text-tools)
 - [Wherigo](#wherigo)
   - [Reverse wherigo](#reverse-wherigo)
+
 ## Special Geocaching Websites
 
 [CacheSleuth](https://www.cachesleuth.com/) - Multi Decoder, Map Tools, Code Tables, Code Tools, Cipher Tools, Number Tools, Misc Tools
@@ -136,6 +137,7 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [BayernAtlas](https://atlas.bayern.de/) und [RadlLand Bayern](https://radlland-bayern.de/radkarte/) Gut zum Touren planen und Caches verstecken.
 
+[SunCalc](https://www.suncalc.org) Sonnenstände für bestimmte Zeit/Orte berechnen. SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position, sun phase, sun height, sun calculator, sun movement, map, sunlight phases, elevation, Photovoltaic system, Photovoltaic
 
 ## Magic eye - Stereogramm
 
