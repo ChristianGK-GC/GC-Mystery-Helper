@@ -12,7 +12,7 @@
   - [JAB Code](#jab-code)
   - [Map Tools](#map-tools)
   - [Fotos und Bildeer](#fotos-und-bildeer)
-  - [EXIF data viewer](#exif-data-viewer)
+    - [EXIF data viewer](#exif-data-viewer)
     - [Magic eye - Stereogramm](#magic-eye-stereogramm)
     - [Reverse - Rückwärtssuche](#reverse-r%C3%BCckw%C3%A4rtssuche)
   - [Math](#math)
@@ -151,9 +151,9 @@ Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bel
 
 [geohints.com](https://geohints.com/) - Erkennungsmerkmale zu Ländern und Regionen
 
-[Geolocate Images with Bellingcat's Shadow Finder Tool)[https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/]
+[Geolocate Images with Bellingcat's Shadow Finder Tool](https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/)
 
-## EXIF data viewer
+### EXIF data viewer
 
 [exif.tools](https://exif.tools/)
 
@@ -267,7 +267,34 @@ target.click();
 
 ## Text Tools
 
-[Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
+<!-- TOC -->
+
+- [Geocaching Link Collection](#geocaching-link-collection)
+  - [Special Geocaching Websites](#special-geocaching-websites)
+    - [Adventure Labs](#adventure-labs)
+  - [AI](#ai)
+  - [Anagramm](#anagramm)
+  - [Coordinates](#coordinates)
+  - [Cryptography](#cryptography)
+  - [JAB Code](#jab-code)
+  - [Map Tools](#map-tools)
+  - [Fotos und Bildeer](#fotos-und-bildeer)
+    - [EXIF data viewer](#exif-data-viewer)
+    - [Magic eye - Stereogramm](#magic-eye-stereogramm)
+    - [Reverse - Rückwärtssuche](#reverse-r%C3%BCckw%C3%A4rtssuche)
+  - [Math](#math)
+  - [Puzzle - Jigidi Puzzles](#puzzle-jigidi-puzzles)
+    - [GPX](#gpx)
+    - [Puzzle - Jigidi Puzzles Skripte](#puzzle-jigidi-puzzles-skripte)
+  - [QR Code](#qr-code)
+  - [Sudoku](#sudoku)
+  - [Futoshiki](#futoshiki)
+  - [Logik Löser / Logical Solver](#logik-l%C3%B6ser-logical-solver)
+  - [Text Tools](#text-tools)
+  - [Wherigo](#wherigo)
+    - [Reverse wherigo](#reverse-wherigo)
+
+<!-- /TOC -->[Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
 
 [Alvaro Thomaz](https://www.alvarothomaz.com/de/verkehrt-herum-schreiben/)
 
