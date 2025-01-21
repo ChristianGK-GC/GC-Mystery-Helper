@@ -1,27 +1,35 @@
 # Geocaching Link Collection
 
-[Geocaching Status](https://secure-stats.pingdom.com/9clg54ngi5t4)
+<!-- TOC -->
 
-- [Special Geocaching Websites](#special-geocaching-websites)
-  - [Adventure Labs](#adventure-labs)
-- [AI](#ai)
-- [Anagramm](#anagramm)
-- [Cooordinates](#cooordinates)
-- [Cryptography](#cryptography)
-- [EXIF data viewer](#exif-data-viewer)
-- [JAB Code](#jab-code)
-- [Map Tools](#map-tools)
-- [Magic eye - Stereogramm](#magic-eye---stereogramm)
-- [Math](#math)
-- [Puzzle - Jigidi Puzzles](#puzzle---jigidi-puzzles)
-- [QR Code](#qr-code)
-- [Reverse](#reverse)
-- [Sudoku](#sudoku)
-- [Futoshiki](#futoshiki)
-- [LogikLöser - Logical Solver](#logik-löser--logical-solver)
-- [Text Tools](#text-tools)
-- [Wherigo](#wherigo)
-  - [Reverse wherigo](#reverse-wherigo)
+- [Geocaching Link Collection](#geocaching-link-collection)
+  - [Special Geocaching Websites](#special-geocaching-websites)
+    - [Adventure Labs](#adventure-labs)
+  - [AI](#ai)
+  - [Anagramm](#anagramm)
+  - [Coordinates](#coordinates)
+  - [Cryptography](#cryptography)
+  - [JAB Code](#jab-code)
+  - [Map Tools](#map-tools)
+  - [Fotos und Bildeer](#fotos-und-bildeer)
+  - [EXIF data viewer](#exif-data-viewer)
+    - [Magic eye - Stereogramm](#magic-eye-stereogramm)
+    - [Reverse - Rückwärtssuche](#reverse-r%C3%BCckw%C3%A4rtssuche)
+  - [Math](#math)
+  - [Puzzle - Jigidi Puzzles](#puzzle-jigidi-puzzles)
+    - [GPX](#gpx)
+    - [Puzzle - Jigidi Puzzles Skripte](#puzzle-jigidi-puzzles-skripte)
+  - [QR Code](#qr-code)
+  - [Sudoku](#sudoku)
+  - [Futoshiki](#futoshiki)
+  - [Logik Löser / Logical Solver](#logik-l%C3%B6ser-logical-solver)
+  - [Text Tools](#text-tools)
+  - [Wherigo](#wherigo)
+    - [Reverse wherigo](#reverse-wherigo)
+
+<!-- /TOC -->
+
+[Geocaching Status](https://secure-stats.pingdom.com/9clg54ngi5t4)
 
 ## Special Geocaching Websites
 
@@ -59,7 +67,7 @@
 
 [arrak.fi](https://www.arrak.fi/en/ag) - several languages available
 
-## Cooordinates
+## Coordinates
 
 [Rechnen mit Geo-Koordinaten](https://rechneronline.de/geo-koordinaten/)
 
@@ -99,14 +107,6 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [Convertworld](https://www.convertworld.com/) is one of the most used unit converion services
 
-## EXIF data viewer
-
-[exif.tools](https://exif.tools/)
-
-[exifdata.com](https://exifdata.com/)
-
-[jimpl.com](https://jimpl.com/)
-
 ## JAB Code
 
 [jabcode.org](https://jabcode.org/scan)
@@ -141,11 +141,49 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 [SunCalc](https://www.suncalc.org) Sonnenstände für bestimmte Zeit/Orte berechnen. SunCalc - sunrise, sunset, shadow length, solar eclipse, sun position, sun phase, sun height, sun calculator, sun movement, map, sunlight phases, elevation, Photovoltaic system, Photovoltaic
 
-## Magic eye - Stereogramm
+[Dual Maps](https://www.dualmaps.com/) erlaubt es, Satelliten-, Karten- und Straßenperspektive gleichzeitig zu betrachten
+
+Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb)
+
+## Fotos und Bildeer
+
+[Fotoforensics](https://fotoforensics.com/)
+
+[geohints.com](https://geohints.com/) - Erkennungsmerkmale zu Ländern und Regionen
+
+[Geolocate Images with Bellingcat's Shadow Finder Tool)[https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/]
+
+## EXIF data viewer
+
+[exif.tools](https://exif.tools/)
+
+[exifdata.com](https://exifdata.com/)
+
+[jimpl.com](https://jimpl.com/)
+
+[metadata2go.com](https://www.metadata2go.com/)
+
+### Magic eye - Stereogramm 
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
 
 [magic-eye-bilder-mit-photoshop-loesen](https://www.bergziege-owl.de/magic-eye-bilder-mit-photoshop-loesen/)
+
+### Reverse - Rückwärtssuche
+
+[tineye.com](https://tineye.com/) - Reverse Image Search
+
+[reverseimagesearch.com](https://www.reverseimagesearch.com/) - Multi platform searcher
+
+[lens.google.com](https://lens.google.com/) - `https://lens.google.com/uploadbyurl?url=<URL>`
+
+[bing.com/images/searchbyimage](https://www.bing.com/images/searchbyimage) - `https://www.bing.com/images/searchbyimage?FORM=IRSBIQ&cbir=sbi&imgurl=<URL>`
+
+[bing.com/visualsearch](https://www.bing.com/visualsearch)
+
+[Duplichecker](https://www.duplichecker.com/reverse-image-search.php)
+
+[Reverse Image Search](https://www.labnol.org/reverse/)
 
 ## Math
 
@@ -159,17 +197,16 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 ## Puzzle - Jigidi Puzzles
 
-[solvedjigidi.com](https://solvedjigidi.com/)
-
-https://docs.google.com/spreadsheets/d/e/2PACX-1vQ358lFBRDaOUD1GOOvhOR9Wp4ECnUINbgT5M_vqiRTGoM3k3OKtY2shq1Ajqsmf7T8XqIE7Owm0-z4/pubhtml#
+[solvedjigidi.com](https://solvedjigidi.com/) und das [Excel](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ358lFBRDaOUD1GOOvhOR9Wp4ECnUINbgT5M_vqiRTGoM3k3OKtY2shq1Ajqsmf7T8XqIE7Owm0-z4/pubhtml#) dazu
 
 ### GPX
 
-https://www.mediafire.com/folder/wyprjcy37yt39/Downloads
+[GPX dateien](https://www.mediafire.com/folder/wyprjcy37yt39/Downloads) von Puzzle Runden
 
-[www.geocoord.nl/gpx/](https://www.geocoord.nl/gpx/) - https://www.facebook.com/groups/2978857879030956/
+[www.geocoord.nl/gpx/](https://www.geocoord.nl/gpx/) - facebook [Puzzle Gruppe](https://www.facebook.com/groups/2978857879030956/)
 
 ### Puzzle - Jigidi Puzzles Skripte
+
 [Dan Q - jigidi-solver](https://danq.me/2021/08/26/jigidi-solver/)
 [Dan Q - jigidi-helper](https://danq.me/2023/03/20/jigidi-helper/)
 
@@ -209,22 +246,6 @@ target.click();
 ## QR Code
 
 [ZXing Decoder Online](https://zxing.org/w/decode.jspx)
-
-## Reverse
-
-[tineye.com](https://tineye.com/) - Reverse Image Search
-
-[reverseimagesearch.com](https://www.reverseimagesearch.com/) - Multi platform searcher
-
-[lens.google.com](https://lens.google.com/) - `https://lens.google.com/uploadbyurl?url=<URL>`
-
-[bing.com/images/searchbyimage](https://www.bing.com/images/searchbyimage) - `https://www.bing.com/images/searchbyimage?FORM=IRSBIQ&cbir=sbi&imgurl=<URL>`
-
-[bing.com/visualsearch](https://www.bing.com/visualsearch)
-
-[Duplichecker](https://www.duplichecker.com/reverse-image-search.php)
-
-[Reverse Image Search](https://www.labnol.org/reverse/)
 
 ## Sudoku
 
