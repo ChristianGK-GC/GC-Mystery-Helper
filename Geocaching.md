@@ -11,7 +11,7 @@
   - [Cryptography](#cryptography)
   - [JAB Code](#jab-code)
   - [Map Tools](#map-tools)
-  - [Fotos und Bildeer](#fotos-und-bildeer)
+  - [Fotos und Bilder](#fotos-und-bilder)
     - [EXIF data viewer](#exif-data-viewer)
     - [Magic eye - Stereogramm](#magic-eye-stereogramm)
     - [Reverse - Rückwärtssuche](#reverse-r%C3%BCckw%C3%A4rtssuche)
@@ -145,7 +145,7 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb)
 
-## Fotos und Bildeer
+## Fotos und Bilder
 
 [Fotoforensics](https://fotoforensics.com/)
 
@@ -163,7 +163,7 @@ Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bel
 
 [metadata2go.com](https://www.metadata2go.com/)
 
-### Magic eye - Stereogramm 
+### Magic eye - Stereogramm
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
 
@@ -267,34 +267,7 @@ target.click();
 
 ## Text Tools
 
-<!-- TOC -->
-
-- [Geocaching Link Collection](#geocaching-link-collection)
-  - [Special Geocaching Websites](#special-geocaching-websites)
-    - [Adventure Labs](#adventure-labs)
-  - [AI](#ai)
-  - [Anagramm](#anagramm)
-  - [Coordinates](#coordinates)
-  - [Cryptography](#cryptography)
-  - [JAB Code](#jab-code)
-  - [Map Tools](#map-tools)
-  - [Fotos und Bildeer](#fotos-und-bildeer)
-    - [EXIF data viewer](#exif-data-viewer)
-    - [Magic eye - Stereogramm](#magic-eye-stereogramm)
-    - [Reverse - Rückwärtssuche](#reverse-r%C3%BCckw%C3%A4rtssuche)
-  - [Math](#math)
-  - [Puzzle - Jigidi Puzzles](#puzzle-jigidi-puzzles)
-    - [GPX](#gpx)
-    - [Puzzle - Jigidi Puzzles Skripte](#puzzle-jigidi-puzzles-skripte)
-  - [QR Code](#qr-code)
-  - [Sudoku](#sudoku)
-  - [Futoshiki](#futoshiki)
-  - [Logik Löser / Logical Solver](#logik-l%C3%B6ser-logical-solver)
-  - [Text Tools](#text-tools)
-  - [Wherigo](#wherigo)
-    - [Reverse wherigo](#reverse-wherigo)
-
-<!-- /TOC -->[Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
+[Text umdrehen](https://www.topster.de/text/umdrehen.html)  (Rückwärts, Verkehrt herum) - Textfunktionen
 
 [Alvaro Thomaz](https://www.alvarothomaz.com/de/verkehrt-herum-schreiben/)
 
