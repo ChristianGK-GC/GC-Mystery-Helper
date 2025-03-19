@@ -55,6 +55,12 @@
 
 [DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 
+[nogpt](https://nogpt.net/) ChatGPT AI Detector
+
+[ZeroGPT](https://zerogpt.net/) AI Content Detector
+
+[QuillBot](https://quillbot.com/ai-content-detector) AI Detector
+
 ## Anagramm
 
 [Anagramm-Generator](https://www.sibiller.de/anagramme/) by Ulrich Sibillers
