@@ -32,3 +32,8 @@
 - [JSON Path Finder](https://jsonpathfinder.com/)
 - [JSON Editor Online](https://jsoneditoronline.org/)
 - [JSONPath](https://jsonpath.com/)Online Evaluator
+
+
+## unpack, deobfuscate
+
+- [Unminifyy](https://unminify.com/) Free tool to unminify (unpack, deobfuscate) JavaScript, CSS, HTML, XML and JSON code, making it readable and pretty.
