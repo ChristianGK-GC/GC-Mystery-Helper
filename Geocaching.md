@@ -151,6 +151,13 @@ FBCS [Multi Encoder - Decoder](http://fbcs.bplaced.net/multi_encoder_decoder.htm
 
 Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bellingcat/ShadowFinder/blob/main/ShadowFinderColab.ipynb)
 
+[Geofabrik Tools](https://tools.geofabrik.de/)
+
+- [https://tools.geofabrik.de/map/](https://tools.geofabrik.de/map/)
+- [Map Compare](https://tools.geofabrik.de/mc) Katen vergleichen
+- [OSM Inspector](https://tools.geofabrik.de/osmi)
+- [Tile Calculator](https://tools.geofabrik.de/calc/)
+
 ## Fotos und Bilder
 
 [Fotoforensics](https://fotoforensics.com/)
@@ -294,3 +301,4 @@ target.click();
 <https://gc.de/gc/reversewherigo/>
 
 <https://www.cachesleuth.com/reversewherigo.html>
+
