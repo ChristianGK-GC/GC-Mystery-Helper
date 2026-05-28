@@ -15,3 +15,5 @@
 [Dan-Q](https://gist.github.com/Dan-Q)
 - [Solving Jigidi… Again](https://danq.me/2023/03/20/jigidi-helper/)
 - [Jigidi Helper (Experimental)](https://gist.github.com/Dan-Q/e9bfe5c2ca4b13fae4994c5e84685761)
+
+- [Jigidi Bingo Solver](https://github.com/f-o/Jigidi-Bingo-Solver)
