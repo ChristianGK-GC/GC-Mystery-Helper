@@ -176,6 +176,8 @@ Bellingcat’s [Shadow Finder Tool](https://colab.research.google.com/github/Bel
 
 [metadata2go.com](https://www.metadata2go.com/)
 
+[Metadata Remover – browser-local metadata viewer](https://metadataremover.ai/metadata-viewer)
+
 ### Magic eye - Stereogramm
 
 [magiceye.ecksdee.co.uk/](https://magiceye.ecksdee.co.uk/)
